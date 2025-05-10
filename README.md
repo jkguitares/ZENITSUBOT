@@ -54,7 +54,7 @@ Comandos pra instalar:
 
 * `pm2 monit `
 
-## MATERIAL
+## MATERIA
 
 * termux e dois celulares 
 
